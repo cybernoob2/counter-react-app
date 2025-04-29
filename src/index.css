@@ -1,0 +1,20 @@
+.container{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.btn{
+  padding: 2px;
+  margin: 5px;
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+}
+
+.btn2{
+  padding: 2px;
+  margin: 5px;
+  background-color: #f90707;
+  color: white;
+  border-radius: 5px;
+}
